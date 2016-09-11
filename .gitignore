@@ -23,6 +23,7 @@
 npm-debug.log
 testem.log
 /typings
+keys.ts
 
 # e2e
 /e2e/*.js
